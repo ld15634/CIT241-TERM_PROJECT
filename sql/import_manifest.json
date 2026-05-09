@@ -1,0 +1,6 @@
+{
+  "train_rows": 12000,
+  "test_rows": 8580,
+  "total_rows": 20580,
+  "sql_file": "sql\\import_inserts.sql"
+}
